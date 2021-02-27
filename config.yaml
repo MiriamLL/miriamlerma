@@ -11,17 +11,13 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 permalinks:
-  post: /:year/:month/:day/:slug/
+  post: /:title/:slug/
 menu:
   main:
     - name: About
       url: /about/
     - name: Publications
       url: /publications/
-    - name: GitHub
-      url: https://github.com/MiriamLL
-    - name: Twitter
-      url: https://twitter.com/MiriamLermaL
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
