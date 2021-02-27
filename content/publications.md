@@ -1,8 +1,7 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
-title: About
+date: "2021-27-02T21:48:51-07:00"
+title: Publications
 ---
 
-Este es mi primer entrada al blog. En realidad quiero hacer un sitio academico pero no se a que le pique. 
-Veamos que pasa :)
+Aqui pondre enlace a publicaciones.
 ...
