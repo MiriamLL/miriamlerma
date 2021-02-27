@@ -1,7 +1,6 @@
 ---
-date: "2021-27-02T21:48:51-07:00"
+date: "2021-02-27T21:48:51-07:00"
 title: Publications
 ---
 
-Aqui pondre enlace a publicaciones.
-...
+Here, I will write about my publications.
