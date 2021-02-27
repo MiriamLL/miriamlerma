@@ -1,7 +1,7 @@
 baseurl: https://miriamlerma.netlify.app/
 languageCode: en-us
 title: Miriam Lerma
-theme: OtroTheme
+theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
