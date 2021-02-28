@@ -1,5 +1,5 @@
-baseurl = "https://miriamlerma.netlify.app/"
-languageCode = "en-us"
+baseurl = "https://miriamlermablog.netlify.app/"
+languageCode = "es-es"
 title = "A Hugo website"
 theme = "hugo-lithium"
 googleAnalytics = ""
@@ -10,7 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "Acerca de mi"
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
