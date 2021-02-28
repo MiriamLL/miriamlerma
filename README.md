@@ -2,4 +2,4 @@
 
 Blogdown
 
-https://miriamlerma.netlify.app/
+https://miriamlermablog.netlify.app/
