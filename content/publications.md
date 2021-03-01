@@ -1,6 +1,6 @@
 ---
 date: "2021-02-27T21:48:51-07:00"
-title: Publications
+title: Publicaciones
 ---
 
-Here, I will write about my publications.
+Aqui quiero poner mis publicaciones.

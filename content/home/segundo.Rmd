@@ -1,0 +1,22 @@
+---
+date: "2016-05-05T21:48:51-07:00"
+name: Can add more parameters
+title: Segundo post
+---
+
+
+Aqui cree un archivo Rmd, porque queria probar si da lo mismo y puedo usar md o Rmd y parece que si.
+
+Me gusta mas Rmd porque puedo poner summaries:
+```{r cars}
+summary(cars)
+```
+
+## Y graficos!
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Pero las imagenes no salen aun. 
+![](/home/entrada_files/_1070652.JPG)

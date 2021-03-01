@@ -1,15 +1,14 @@
 ---
 date: "2016-05-05T21:48:51-07:00"
 name: Can add more parameters
-title: This is the first thing
+title: Primer post.
 ---
 
-That appears.
-How much can I write here
-I want to check
+Esto es para checar que tanto texto puedo agregar y donde va a aparecer cada entrada del blog.
 
-# Can I add titles
-## Secondary even
+Tengo la opcion de 
+# Agregar titulos de primer nivel
+## Agregar titulos de segundo nivel
 
-No images?
+Pero las imagenes no salen aun. 
 ![](/home/entrada_files/_1070652.JPG)
