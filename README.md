@@ -2,4 +2,3 @@
 
 Blogdown
 
-https://miriamlermablog.netlify.app/
